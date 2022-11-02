@@ -1,5 +1,5 @@
 # Кластеризация гамма-всплесков
-Статья - https://arxiv.org/abs/2005.13554
+Статья - https://arxiv.org/abs/2005.13554 
 Данные эксперимента SWIFT - https://swift.gsfc.nasa.gov/results/batgrbcat/
 
 Задачи:
