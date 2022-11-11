@@ -1,0 +1,10 @@
+umap
+pandas
+numpy 
+os
+matplotlib
+sklearn
+plotly
+tqdm
+kaleido
+scipy
